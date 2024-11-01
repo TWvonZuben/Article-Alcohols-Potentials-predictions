@@ -1,0 +1,1 @@
+This repository is related to the work developed in the article titled "Machine Learning Predictions of Onset and Oxidation Potentials for Methanol and Ethanol Electrooxidation: Comprehensive Analysis and Experimental Validation". 
